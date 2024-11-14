@@ -7,9 +7,9 @@
 </p>
 
 <h2 id="architecture">Architecture</h2>
-<p>
-    [architecture](https://github.com/user-attachments/assets/d44f9e77-1c9e-449d-b231-b6fff3830d05)
-</p>
+
+![image](https://github.com/user-attachments/assets/670da0dc-aa8c-4d17-b1f2-c9589b28d1f8)
+
 <p>
     The architecture for this project includes the following components:
 </p>
