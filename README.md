@@ -8,7 +8,8 @@
 
 <h2 id="architecture">Architecture</h2>
 
-![image](https://github.com/user-attachments/assets/670da0dc-aa8c-4d17-b1f2-c9589b28d1f8)
+![image](https://github.com/user-attachments/assets/e92cbfe0-d45c-4beb-8505-44669a561570)
+
 
 <p>
     The architecture for this project includes the following components:
