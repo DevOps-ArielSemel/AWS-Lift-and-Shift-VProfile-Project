@@ -34,10 +34,10 @@
 <h2 id="prerequisites">Prerequisites</h2>
 <p>Before deploying this application, make sure you have the following:</p>
 <ol>
-    <li>JDK 11</li> 
-    <li>Maven 3</li> 
-    <li>MySQL 8</li>
-    <li><strong>AWS Account</strong>: Access to an AWS account with administrative permissions.</li>
+    <li><strong>JDK 11</strong></li> 
+    <li><strong>Maven 3</strong></li> 
+    <li><strong>MySQL 8</strong></li>
+    <li><strong>AWS Account</strong></li>
     <li><strong>IAM Roles</strong>:
         <ul>
             <li><strong>EC2 Role</strong> with permissions for S3, Auto Scaling, and CloudWatch.</li>
