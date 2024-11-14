@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AWS Lift-and-Shift VProfile Project</title>
-</head>
-<body>
-
 <h1>AWS Lift-and-Shift VProfile Project</h1>
 
 <h2 id="overview">Overview</h2>
@@ -59,7 +50,4 @@
         </ul>
     </li>
 </ol>
-
-</body>
-</html>
 
